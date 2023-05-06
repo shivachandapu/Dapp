@@ -1,5 +1,0 @@
-{
-    "solidity.compileUsingRemoteVersion": "v0.8.19+commit.7dd6d404",
-    "solidity.defaultCompiler": "remote",
-    "solidity.compileUsingLocalVersion": "/home/csk/Desktop/Mini/My_project/back_end/soljson-v0.8.19+commit.7dd6d404.js"
-}
